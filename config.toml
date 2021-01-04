@@ -119,20 +119,20 @@ name = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-name = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# name = "linkedin"
+# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-name = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# name = "github"
+# icon = "ti-github" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-name = "youtube"
-icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# name = "youtube"
+# icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 
 ################################### English language #####################################
@@ -155,53 +155,10 @@ name = "Online Jobs"
 url = "categories/online-jobs"
 weight = 1
 
-# Dropdown menu
 [[Languages.en.menu.main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Category"
-  url = "categories/creativity"
-  weight = 2
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food"
-  weight = 3
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404"
-  weight = 4
-
-# Dropdown menu
-[[Languages.en.menu.main]]
-name = "About"
-URL = "#"
+name = "About Us"
+url = "about-us"
 weight = 2
-  
-  [[Languages.en.menu.main]]
-  parent = "About"
-  name = "About Me"
-  url = "about-me"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "About"
-  name = "About Us"
-  url = "about-us"
-  weight = 2
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -226,7 +183,7 @@ languageName = "Hi"
 languageCode = "hi-in"
 contentDir = "content/french"
 weight = 2
-heading = "Qu'aimeriez-vous <br> lire aujourd'hui?"
+heading = "आज आप क्या <br> पढ़ना पसंद करेंगे ?"
 
 [Languages.hi.about_me]
 title = "Hi, I am Alex!"
@@ -235,127 +192,29 @@ bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec 
 
 ############# french navigation ##############
 
-# Dropdown menu
 [[Languages.hi.menu.main]]
+name = "ऑनलाइन नौकरियां"
+url = "categories/online-jobs"
 weight = 1
-name = "homepage"
-hasChildren = true
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full Width"
-  url = "homepage/full/"
-  weight = 1
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Left Sidebar"
-  url = "homepage/full-left/"
-  weight = 2
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage Full With Right Sidebar"
-  url = "homepage/full-right/"
-  weight = 3
-  
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage List Style"
-  url = "homepage/list/"
-  weight = 4
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Left Sidebar"
-  url = "homepage/list-left/"
-  weight = 5
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage List With Right Sidebar"
-  url = "homepage/list-right/"
-  weight = 6
-  
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid Style"
-  url = "homepage/grid/"
-  weight = 7
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Left Sidebar"
-  url = "homepage/grid-left/"
-  weight = 8
-
-  [[Languages.hi.menu.main]]
-  parent = "homepage"
-  name = "Homepage Grid With Right Sidebar"
-  url = "homepage/grid-right/"
-  weight = 9
-
 
 [[Languages.hi.menu.main]]
-name = "About"
-URL = "#"
+name = "हमारे बारे में"
+url = "about-us"
 weight = 2
-  
-  [[Languages.hi.menu.main]]
-  parent = "About"
-  name = "About Me"
-  url = "about-me"
-  weight = 1
-
-  [[Languages.hi.menu.main]]
-  parent = "About"
-  name = "About Us"
-  url = "about-us"
-  weight = 2
 
 [[Languages.hi.menu.main]]
-name = "Contact"
+name = "संपर्क करें"
 URL = "contact"
 weight = 3
-
-# Dropdown menu
-[[Languages.hi.menu.main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[Languages.hi.menu.main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author"
-  weight = 1
-
-  [[Languages.hi.menu.main]]
-  parent = "Pages"
-  name = "Category"
-  url = "categories/creativity"
-  weight = 2
-
-  [[Languages.hi.menu.main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food"
-  weight = 3
-
-  [[Languages.hi.menu.main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404"
-  weight = 4
 
 
 # footer menu
 [[Languages.hi.menu.footer]]
-name = "Privacy Policy"
+name = "प्राइवेसी पॉलिसी"
 URL = "privacy-policy"
 weight = 1
 
 [[Languages.hi.menu.footer]]
-name = "Terms Conditions"
+name = "टर्म्स कंडीशंस"
 URL = "terms-conditions"
 weight = 2
