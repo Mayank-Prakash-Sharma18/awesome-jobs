@@ -1,4 +1,4 @@
-- id: continiue_reading
+- id: read_more
   # translation: Relecture Continiue
   translation: और पढ़ें
 
@@ -43,7 +43,7 @@
   translation: सब्सक्राइब 
 
 - id: subscribe_newsletter
-  translation: न्यूज़लेटर सब्सक्राइब करें   
+  translation: सब्सक्राइब करें   
 
 - id: social
   translation: सोशल 
@@ -76,7 +76,7 @@
   translation: लेखक के बारे में  
 
 - id: subscribe_newsletter
-  translation: न्यूज़लेटर सब्सक्राइब करें 
+  translation: सब्सक्राइब करें 
 
 - id: back_to_home
   translation: होमपेज वापस जाएं 

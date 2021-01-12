@@ -1,8 +1,8 @@
 ---
-title: "Kate Stone"
-image: "images/kate-stone.jpg"
-email: "kate@reader.com"
-description: "Author & developer of Bexer, Biztrox theme"
+title: "Mayank Sharma"
+image: ""
+email: "mehedishariftitas@gmail.com"
+description: "Senior Faculty & Career Counsellor"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
@@ -14,4 +14,4 @@ social:
     link : "#"
 ---
 
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Mayank Sharma is a senior faculty member, guiding students to crack various competitive examinations. He has experience of over 10 years. 

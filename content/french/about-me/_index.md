@@ -1,13 +1,13 @@
 ---
 title: "About Me"
-image : "images/about-me.jpg"
+image : "images/author.jpg"
 # description
-description: "This is meta description"
+description: "Author description"
 draft: false
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Educational Qualification <br> That I Have Gathered"
   degree:
   - name : "BEng Electronic Engineering"
@@ -28,14 +28,14 @@ education:
 
 # mission
 mission:
-  enable : true
+  enable : false
   title : "What is the main mission of mine and what i wanna do?"
   image : "images/mission.png"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
 
 # Youtube
 youtube:
-  enable : true
+  enable : false
   title : "Don’t forget to subscribe my Youtube channel “Richi Andorn”"
   image : "images/youtube.png"
   video_id: "dyZcRRWiuuw"
@@ -43,7 +43,7 @@ youtube:
 
 # partners
 partners:
-  enable : true
+  enable : false
   title : "My Contents also published <br> on these websites"
   logos:
     - "images/logos/logo-1.png"
@@ -57,6 +57,18 @@ partners:
     - "images/logos/logo-9.png"
 ---
 
-## Helllo I’m Richi Andorn I’m a Biography Based researcher And Author 
+## Hello I’m Mragank Shandilya 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.
+I’m an Academician, Blogger, and Digital Marketer  
+
+I have worked in various fields, be it MNCs (corporate), armed forces, PSUs or private sector. I was a software engineer for 3 years, also worked in Indian Air Force as Flight lieutenant; thereafter I had small stint in finance sector too (SBI, Bank of Baroda, and LIC as Deputy Manager).
+
+I also have vast experience with freelancing work and just enjoy the freedom that it allows me. The freedom to work from anywhere and at anytime of my choice. And earn as much I want to and am capable of, without having to wait for annual appraisals. 
+
+Nowadays I work as Academic Head in education field (for competitive examinations like GMAT, GRE, CAT, IAS, SSC, Bank). I love sharing my knowledge and experiences with my students. 
+
+This website is also a small effort on my side to share my tips and tricks with a wider audience, when it comes to earning online or getting a job. 
+
+Regards <br>
+Mragank Shandilya <br>
+(pen name)

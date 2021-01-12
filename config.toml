@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/reader-hugo/"
-title = "Reader | Hugo Personal Blog Template"
+baseURL = "http://awesome-jobs/"
+title = "Awesome Jobs | Jobs and Career Guidance"
 theme = "reader"
 # post pagination
 paginate = "6"
@@ -60,8 +60,8 @@ logo = "images/logo.png"
 logo_width = "100px"
 menu_align = "center" # available option (left, right, or center )
 # Meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Awesome Jobs"
+description = "Jobs and Career Guidance"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Go to https://formspree.io, and create an account by click on signup button. Now verify your email address by click on varify button in the mail you got in your inbox. form action will looks like this contact_form_action = "https://formspree.io/your.name@email.com/" 
@@ -84,23 +84,23 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # Instagram feed
 [params.instafeed]
-enable = true
+enable = false
 access_token = "" # place your instagram access token here
 
 # promotion
-[params.promotion]
-title = "Create Stunning Website!!"
-content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare turpis posuere."
-image = "images/promotion.jpg"
-button_label = "Get Started"
-button_link = "https://themefisher.com/"
+# [params.promotion]
+# title = "Create Stunning Website!!"
+# content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare turpis posuere."
+# image = "images/promotion.jpg"
+# button_label = "Get Started"
+# button_link = "https://themefisher.com/"
 
 ######################## sidebar widgets #########################
 [params.widgets]
@@ -144,9 +144,9 @@ weight = 1
 heading = "What Would You <br> Like To Read Today?"
 
 [Languages.en.about_me]
-title = "Hi, I am Alex!"
+title = "Hi, I am Mragank Shandilya!"
 image = "images/author.jpg"
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
+bio = "I am a professional with more than a decade long experience across multiple sectors and jobs. This is a small attempt to share my knowledge with you guys."
 
 ############# english navigation ##############
 
@@ -186,9 +186,9 @@ weight = 2
 heading = "आज आप क्या <br> पढ़ना पसंद करेंगे ?"
 
 [Languages.hi.about_me]
-title = "Hi, I am Alex!"
+title = "नमस्ते, में मृगांक शांडिल्य !"
 image = "images/author.jpg"
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
+bio = "मुझे कई क्षेत्रों और नौकरियों में काम करने का एक दशक से भी अधिक का अनुभव है। अपना ज्ञान आप लोगों के साथ साझा करने का यह मेरा एक छोटा सा प्रयास है।"
 
 ############# french navigation ##############
 

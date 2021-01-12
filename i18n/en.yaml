@@ -41,7 +41,7 @@
   translation: Subscribe now
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Subscribe
 
 - id: social
   translation: Social Links
@@ -74,7 +74,7 @@
   translation: About me
 
 - id: subscribe_newsletter
-  translation: Never Miss A News
+  translation: Subscribe
 
 - id: back_to_home
   translation: Back To Home
