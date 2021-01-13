@@ -3,7 +3,7 @@ title: "Best Online Tutoring Jobs: Earn 30 k and above!"
 date: 2020-11-27T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/online-tutoring.jpg"
+  - "images/post/online-tutoring.png"
 #author
 author: "Mragank Shandilya"
 # description
