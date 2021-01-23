@@ -9,7 +9,7 @@ author: "Mayank Sharma"
 # description
 description: ""
 # Taxonomies
-categories: ["jobs", "career"]
+categories: ["resume", "career"]
 tags: ["cover-letter","job-application"]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false

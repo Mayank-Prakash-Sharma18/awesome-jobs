@@ -213,11 +213,30 @@ mark {
   @media (max-width: 991px) {
     .sidebar-inner {
       margin-top: 0; } }
+body {
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+
 .toc-mak {
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   background-color: #f0f7fb;
   border: solid 1px #3498db;
+  border-radius: 6px;
+  line-height: 18px;
+  overflow: hidden;
+  padding: 11px 36px;
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+.danger-mak {
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  background-color: #fcedf2;
+  border: solid 1px #db34b1;
   border-radius: 6px;
   line-height: 18px;
   overflow: hidden;
