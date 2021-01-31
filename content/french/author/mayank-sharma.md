@@ -1,7 +1,7 @@
 ---
 title: "Mayank Sharma"
 image: ""
-email: "mehedishariftitas@gmail.com"
+email: "cheers.freelife@gmail.com"
 description: "Senior Faculty & Career Counsellor"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons

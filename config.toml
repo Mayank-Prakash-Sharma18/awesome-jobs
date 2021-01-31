@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://awesome-jobs/"
+baseURL = "https://awesome-jobs.com/"
 title = "Awesome Jobs | Jobs and Career Guidance"
 theme = "reader"
 # post pagination
