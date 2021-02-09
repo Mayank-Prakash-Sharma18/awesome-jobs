@@ -71,7 +71,12 @@ Managed a team of 10 software developers. (active voice)
 
 * Resume format: Generally, you will need to submit your resume as word file or PDF. But the formatting of word file may get messed up, just because the word document version of the HR manger is different from that of yours. So, if we have a choice, we should prefer the PDF format. 
 
-* Traditional Vs. Modern layout: You may opt for a traditional or a modern looking layout, depending of the kind of industry and job you are applying for. Traditional layout is basically a simple one column black and white resume. Modern layout is coloured, double column, with various design and infographic elements. In traditional industries such as, banking, finance we often go for traditional layout. But in jobs such as designer, content manger, digital marketer we should prefer the modern layout. 
+* Traditional Vs. Modern layout: You may opt for a traditional or a modern looking layout, depending of the kind of industry and job you are applying for. Traditional layout is basically a simple one column black and white resume. Modern layout is coloured, double column, with various design and infographic elements. <br><br>
+***Traditional resume layout:*** <br><br>
+<img src="../../images/post/resume/traditional-resume-layout.png" alt="traditional resume layout"> <br><br>
+***Modern resume layout:*** <br><br>
+<img src="../../images/post/resume/modern-resume-layout.png" alt="modern resume layout"> <br><br>
+In traditional industries such as, banking, finance we often go for traditional layout. But in jobs such as designer, content manger, digital marketer we should prefer the modern layout. 
 
 
 ## Choose appropriate resume format (Types of resume)
@@ -120,6 +125,8 @@ Let us see the points we need to keep in mind while writing these sections.
 
 Of the 6-7 seconds your resume will get, some will definitely be fetched by your resume summary or objective. Afterall it’s placed right at the top of your resume. Basically, it’s the header part of your resume. 
 
+<img src="../../images/post/resume/resume-summary.png" alt="resume summary"> <br>
+
 #### Resume Summary Vs. Resume Objective
 
 If you are an experienced job seeker with relevant skill-set and experience, then you will write your resume summary. You will highlight your most relevant post related experience and skills here. 
@@ -139,6 +146,8 @@ However, if you have no or little experience, you may push it down below the ski
 
 You will list down the positions held by you in reverse chronological order i.e., you will start with the current or the most recent post held by you. You need not go back more than 10-15 years. 
 You may use 4-5 bullet points under each position entry, showcasing your responsibilities and achievements. 
+
+<img src="../../images/post/resume/work-experience.png" alt="work experience"> <br>
 
 Each entry can be organized as follows:
 
@@ -161,6 +170,8 @@ Just like your work experience, you will mention your qualifications in reverse 
 In case you have had major and minor subjects, then you may mention that too. For example, in case of an MBA degree - Major in Marketing, Minor in Operations. 
 
 At the end you may add some relevant awards, honours, co-curricular and extra-curricular activities etc. It will provide a nice finishing touch. 
+
+<img src="../../images/post/resume/educational-details.png" alt="educational details"> <br>
 
 This is the way you can format each of your educational degree:
 * Program/Degree name: B. Tech (Information Technology)
@@ -187,6 +198,8 @@ There are two major categories of skills that you can mention:
 #### How to list skills on a resume?
 
 You may list 5-6 skills on a resume. That’s generally more than enough. Highlight the skills that are relevant to the job you are applying. It may be a mix of hard and soft skills. It will depend on the kind of job you are applying for. 
+
+<img src="../../images/post/resume/skills.png" alt="skills"> <br>
 
 You need to mention the skill, as well as your proficiency level. There may be 3 or 4 proficiency levels:
 * Professional/Expert
@@ -252,6 +265,8 @@ You need to necessarily provide these in the Contact section:
 
 * Location – Do provide you location if you are applying for a job wherein you are supposed to go to office. You can just provide your city name. No need to provide your full address. In case of work from home or freelancing opportunities, location does not matter much.
 
+<img src="../../images/post/resume/contact-information.png" alt="contact information"> <br>
+
 Do make sure you double check all of your contact information. It will be a professional tragedy to miss a good job just because you provided incorrect phone number or email address. 
 
 Apart from the essential contact information given above, you can also provide the following information:
@@ -271,7 +286,9 @@ The following pieces of information need not be there in your resume.
 
 ## Additional / Optional Information
 
-You may also add some other information in your resume e.g., hobbies and interests, internships, summer projects, volunteer work, certifications and awards, publications etc. 
+You may also add some other information in your resume e.g., hobbies and interests, internships, summer projects, volunteer work, certifications and awards, publications, other accomplishments etc. 
+
+<img src="../../images/post/resume/accomplishments.png" alt="accomplishments"> <br>
 
 But these sections are optional. You may leave them out of your resume. In some of the interviews you are asked to tell things about you that are not already there in the resume. You may mention these things then. 
 

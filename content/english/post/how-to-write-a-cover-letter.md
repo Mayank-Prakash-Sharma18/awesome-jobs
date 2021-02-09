@@ -70,6 +70,8 @@ It should be 200 to 400 words long. Just like a small descriptive answer we used
 
 * Conclusion – Write a formal closing. 
 
+<img src="../../images/post/cover-letter.png" alt="cover letter"> <br>
+
 Make sure that the contents of your cover letter are factual. Broad generalizations and vague statements are not as effective. 
 
 ### Use right words in Cover Letter
