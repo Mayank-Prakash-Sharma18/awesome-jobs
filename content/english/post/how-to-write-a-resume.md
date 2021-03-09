@@ -9,8 +9,8 @@ author: "Mayank Sharma"
 # description
 description: ""
 # Taxonomies
-categories: ["resume", "career"]
-tags: ["cover-letter","job-application"]
+categories: ["job-application", "career"]
+tags: ["cover-letter","resume"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---

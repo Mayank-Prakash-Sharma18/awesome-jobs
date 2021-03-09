@@ -151,19 +151,24 @@ bio = "I am a professional with more than a decade long experience across multip
 ############# english navigation ##############
 
 [[Languages.en.menu.main]]
-name = "Online Jobs"
+name = "Best Online Jobs"
 url = "categories/online-jobs"
 weight = 1
 
 [[Languages.en.menu.main]]
+name = "Job Application Guidance"
+url = "categories/job-application"
+weight = 2
+
+[[Languages.en.menu.main]]
 name = "About Us"
 url = "about-us"
-weight = 2
+weight = 9
 
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 10
 
 # footer menu
 [[Languages.en.menu.footer]]
@@ -193,19 +198,24 @@ bio = "मुझे कई क्षेत्रों और नौकरिय
 ############# french navigation ##############
 
 [[Languages.hi.menu.main]]
-name = "ऑनलाइन नौकरियां"
+name = "सर्वश्रेष्ठ ऑनलाइन नौकरियां"
 url = "categories/online-jobs"
 weight = 1
 
 [[Languages.hi.menu.main]]
+name = "आवेदन मार्गदर्शन"
+url = "categories/job-application"
+weight = 2
+
+[[Languages.hi.menu.main]]
 name = "हमारे बारे में"
 url = "about-us"
-weight = 2
+weight = 9
 
 [[Languages.hi.menu.main]]
 name = "संपर्क करें"
 URL = "contact"
-weight = 3
+weight = 10
 
 
 # footer menu
