@@ -19,7 +19,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>कैप्चा क्या है?</li>
 <li>कैप्चा के प्रकार</li>

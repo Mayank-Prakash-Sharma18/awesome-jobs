@@ -23,7 +23,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>विभिन्न प्रकार के टाइपिंग कार्य</li>
 <li>ऑनलाइन टाइपिंग जॉब्स के लिए आवश्यकताएं</li>

@@ -23,7 +23,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>ऑनलाइन ट्यूटर बनने के लाभ</li>
 <li>ऑनलाइन पढ़ाकर हम कितना पैसा कमा सकते हैं?</li>

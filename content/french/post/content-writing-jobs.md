@@ -25,7 +25,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>सफल कंटेंट डेवलपर बनने के लिए आवश्यक योग्यताएं </li>
 <li>विभिन्न कंटेंट लेखन नौकरियां</li>

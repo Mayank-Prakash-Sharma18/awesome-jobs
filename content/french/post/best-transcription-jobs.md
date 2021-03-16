@@ -21,7 +21,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>ट्रांसक्रिप्शन/प्रतिलेखन क्या है?</li>
 <li>प्रतिलेखन नौकरियों के विभिन्न प्रकार</li>

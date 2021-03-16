@@ -29,7 +29,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>कवर लेटर क्या है?</li>
 <li>आवरण पत्र लिखना</li>

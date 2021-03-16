@@ -25,7 +25,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>रिज्यूमे क्या है?</li>
 <li>एक अच्छी तरह से लिखे गए रिज्यूमे का महत्व</li>

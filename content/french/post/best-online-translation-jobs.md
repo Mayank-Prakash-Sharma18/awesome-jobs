@@ -24,7 +24,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>अनुवादक की क्या भूमिका है?</li>
 <li>अनुवाद कार्य के लिए सर्वश्रेष्ठ वेबसाइटें</li>

@@ -21,7 +21,7 @@ draft: false
 
 <div class="toc-mak">
 <img src="../../../images/pencil.png">
-<b>Table of Contents</b>
+<b>Table of Contents (in Hindi)</b>
 <ul>
 <li>डेटा एंट्री जॉब क्या हैं?</li>
 <li>डेटा एंट्री जॉब्स के लिए आवश्यकताएँ</li>
