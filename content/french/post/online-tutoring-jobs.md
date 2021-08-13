@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: "यदि आप एक शिक्षक हैं और ऑनलाइन नौकरी की तलाश कर रहे हैं, तो आप सही जगह आएं हैं। इस लेख में हम शिक्षकों के लिए कुछ बेहतरीन ऑनलाइन ट्यूटरिंग जॉब्स और ऑनलाइन ट्यूटरिंग साइट्स पर चर्चा करेंगे।"
 # Taxonomies
-categories: ["online-jobs", "freelancer"]
-tags: ["extra-income","money-online","teaching", "freelancing"]
+categories: ["online-jobs"]
+tags: ["extra-income","money-online","teaching","freelancing","freelancer"]
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---

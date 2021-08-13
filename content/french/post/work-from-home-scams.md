@@ -9,8 +9,8 @@ author: "Mayank Sharma"
 # description
 description: ""
 # Taxonomies
-categories: ["online-scams"]
-tags: ["work-from-home"]
+categories: ["online-jobs"]
+tags: ["work-from-home","online-scams"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---

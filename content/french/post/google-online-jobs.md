@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: "Google ऑनलाइन नौकरियां सबसे अच्छी नौकरियों में से एक हैं। वास्तव में, ये परंपरागत नौकरियाँ नहीं हैं, अपितु ये एक प्रकार का उद्यम हैं। आप कह सकते हैं कि ये घर से की जा सकने वाली Google की नौकरियां हैं।"
 # Taxonomies
-categories: ["online-jobs", "freelancer", "entrepreneur"]
-tags: ["extra-income","money-online", "freelancing"]
+categories: ["online-jobs", "entrepreneur"]
+tags: ["extra-income","money-online","freelancing","freelancer"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---

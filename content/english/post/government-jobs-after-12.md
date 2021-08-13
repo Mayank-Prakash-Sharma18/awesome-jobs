@@ -9,7 +9,7 @@ author: "Mayank Sharma"
 # description
 description: ""
 # Taxonomies
-categories: ["government-jobs"]
+categories: ["government-jobs","career-counselling"]
 tags: ["jobs-after-12th"]
 type: "popular" # available type (epic, trending, popular, or regular)
 draft: false

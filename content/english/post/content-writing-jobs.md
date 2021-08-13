@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: ""
 # Taxonomies
-categories: ["online-jobs", "freelancer"]
-tags: ["extra-income","money-online","writing", "freelancing"]
+categories: ["online-jobs"]
+tags: ["extra-income","money-online","writing", "freelancing","freelancer"]
 type: "trending" # available type (epic, trending, popular, or regular)
 draft: false
 ---

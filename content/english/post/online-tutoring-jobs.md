@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: "If you are a teacher and looking for an online job, you are in luck. In this article we will discuss some of the best online tutoring jobs and online tutoring sites for teachers."
 # Taxonomies
-categories: ["online-jobs", "freelancer"]
-tags: ["extra-income","money-online","teaching", "freelancing"]
+categories: ["online-jobs"]
+tags: ["extra-income","money-online","teaching","freelancing","freelancer"]
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---

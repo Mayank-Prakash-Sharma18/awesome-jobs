@@ -153,22 +153,54 @@ bio = "I am a professional with more than a decade long experience across multip
 [[Languages.en.menu.main]]
 name = "Best Online Jobs"
 url = "categories/online-jobs"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "Job Application Guidance"
-url = "categories/job-application"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "About Us"
-url = "about-us"
-weight = 9
-
-[[Languages.en.menu.main]]
-name = "Contact"
-URL = "contact"
 weight = 10
+
+[[Languages.en.menu.main]]
+name = "Government Jobs"
+url = "categories/government-jobs"
+weight = 20
+
+[[Languages.en.menu.main]]
+   name = "Career"
+   url = "#"
+   identifier = "career"
+   weight = 30
+
+   [[Languages.en.menu.main]]
+   name = "Career Counselling"
+   url = "categories/career-counselling"
+   parent = "career"
+   weight = 31
+
+   [[Languages.en.menu.main]]
+   name = "Job Application Guidance"
+   url = "categories/job-application"
+   parent = "career"
+   weight = 32
+
+   [[Languages.en.menu.main]]
+   name = "Entrepreneur"
+   url = "categories/entrepreneur"
+   parent = "career"
+   weight = 33
+
+[[Languages.en.menu.main]]
+   name = "Contact"
+   url = "#"
+   identifier = "contact"
+   weight = 360
+
+   [[Languages.en.menu.main]]
+   name = "Contact Us"
+   URL = "contact"
+   parent = "contact"
+   weight = 361
+
+   [[Languages.en.menu.main]]
+   name = "About Us"
+   url = "about-us"
+   parent = "contact"
+   weight = 362
 
 # footer menu
 [[Languages.en.menu.footer]]
@@ -204,22 +236,54 @@ bio = "मुझे कई क्षेत्रों और नौकरिय
 [[Languages.hi.menu.main]]
 name = "सर्वश्रेष्ठ ऑनलाइन नौकरियां"
 url = "categories/online-jobs"
-weight = 1
-
-[[Languages.hi.menu.main]]
-name = "आवेदन मार्गदर्शन"
-url = "categories/job-application"
-weight = 2
-
-[[Languages.hi.menu.main]]
-name = "हमारे बारे में"
-url = "about-us"
-weight = 9
-
-[[Languages.hi.menu.main]]
-name = "संपर्क करें"
-URL = "contact"
 weight = 10
+
+[[Languages.hi.menu.main]]
+name = "सरकारी नौकरियां"
+url = "categories/government-jobs"
+weight = 20
+
+[[Languages.hi.menu.main]]
+   name = "कैरियर"
+   url = "#"
+   identifier = "career"
+   weight = 30
+
+   [[Languages.hi.menu.main]]
+   name = "कैरियर परामर्श"
+   url = "categories/career-counselling"
+   parent = "career"
+   weight = 31
+
+   [[Languages.hi.menu.main]]
+   name = "नौकरी आवेदन मार्गदर्शन"
+   url = "categories/job-application"
+   parent = "career"
+   weight = 32
+
+   [[Languages.hi.menu.main]]
+   name = "उद्यमी"
+   url = "categories/entrepreneur"
+   parent = "career"
+   weight = 33
+
+[[Languages.hi.menu.main]]
+   name = "संपर्क"
+   url = "#"
+   identifier = "contact"
+   weight = 360
+
+   [[Languages.hi.menu.main]]
+   name = "संपर्क करें"
+   URL = "contact"
+   parent = "contact"
+   weight = 361
+
+   [[Languages.hi.menu.main]]
+   name = "हमारे बारे में"
+   url = "about-us"
+   parent = "contact"
+   weight = 362
 
 
 # footer menu

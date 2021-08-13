@@ -9,8 +9,8 @@ author: "Mragank Shandilya"
 # description
 description: "Google online jobs are one of the most genuine jobs out there. In fact, these are not mere jobs, they are more entrepreneurial in nature. You can become kind of a partner of Google and get paid by it."
 # Taxonomies
-categories: ["online-jobs", "freelancer", "entrepreneur"]
-tags: ["extra-income","money-online", "freelancing"]
+categories: ["online-jobs","entrepreneur"]
+tags: ["extra-income","money-online","freelancing","freelancer"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
