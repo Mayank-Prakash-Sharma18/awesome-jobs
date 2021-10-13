@@ -173,16 +173,22 @@ weight = 20
    weight = 31
 
    [[Languages.en.menu.main]]
+   name = "Competitive Exams"
+   url = "categories/competitive-exams"
+   parent = "career"
+   weight = 32
+
+   [[Languages.en.menu.main]]
    name = "Job Application Guidance"
    url = "categories/job-application"
    parent = "career"
-   weight = 32
+   weight = 33
 
    [[Languages.en.menu.main]]
    name = "Entrepreneur"
    url = "categories/entrepreneur"
    parent = "career"
-   weight = 33
+   weight = 34
 
 [[Languages.en.menu.main]]
    name = "Contact"
@@ -256,16 +262,22 @@ weight = 20
    weight = 31
 
    [[Languages.hi.menu.main]]
+   name = "प्रतियोगी परीक्षाएं"
+   url = "categories/competitive-exams"
+   parent = "career"
+   weight = 32
+
+   [[Languages.hi.menu.main]]
    name = "नौकरी आवेदन मार्गदर्शन"
    url = "categories/job-application"
    parent = "career"
-   weight = 32
+   weight = 33
 
    [[Languages.hi.menu.main]]
    name = "उद्यमी"
    url = "categories/entrepreneur"
    parent = "career"
-   weight = 33
+   weight = 34
 
 [[Languages.hi.menu.main]]
    name = "संपर्क"
