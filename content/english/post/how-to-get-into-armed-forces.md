@@ -30,7 +30,7 @@ Then there is the charm of guns, various self-defence arts that you will learn, 
   <b>Note</b><br>
 
 I was selected in Indian Airforce in 2009 as Flight Lieutenant (Technical Branch). I cleared my SSB in Varanasi and gave my medical test in Delhi. Just like SSB, even their medical tests last for 3-4 days. They check everything! I gave eye test, ear test, ECG, ultrasound test, urine test, etc. 
-Will write about that experience of mine in a separate article. 
+Will write about that experience of mine in a <a href="../how-to-clear-ssb-in-first-attempt" title="SSB Process" class="mak-link">separate article.</a> 
 </div>
 
 In this article, we will focus solely on the armed forces of India, i.e. Army, Navy, and Air Force. These work under the Ministry of Defence. We will discuss about paramilitary forces (e.g. BSF, CISF, CRPF, etc.), which work under Ministry of Home Affairs (MHA), in a separate article. 
@@ -188,3 +188,12 @@ After 1st January, 2004, Army, Navy and Air Force are the only central governmen
 
 In all other government jobs (including Paramilitary forces, Coastal Guards, etc.), you can only get contributory kind of pension, i.e. you will add some sum in your pension fund on a monthly basis, and the government will also contribute some.
 </div>
+
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>SSB</b><br>
+
+If you want to know about the SSB process, and tips to clear it, you may refer to <a href="../how-to-clear-ssb-in-first-attempt" title="SSB Process" class="mak-link">this article of ours.</a> 
+</div>
+
