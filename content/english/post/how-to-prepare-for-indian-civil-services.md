@@ -108,6 +108,8 @@ If you want to understand how to approach RC, then you may read the following ar
 * <a href="https://www.math-english.com/english-advanced/application/reading-comprehension/" target="_blank" title="RC" class="mak-link">Approach to RC (In English)</a>
 
 * <a href="https://www.hindi-education.com/post/reading-comprehension-in-hindi/" target="_blank" title="RC" class="mak-link">Approach to RC (In Hindi)</a>
+
+For Geography, you may refer <a href="https://www.geography-study.com/" target="_blank" title="Geography" class="mak-link">Geography for UPSC and State PSC</a>.
 </div>
 
 To do good in these objective exams is not that big a deal. You just need to study extensively, and learn how to make use of the options in exam conditions. You can end up selecting the correct option, even if you do not remember the exact right answer. 
