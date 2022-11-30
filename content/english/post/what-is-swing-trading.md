@@ -63,6 +63,14 @@ Swing traders view share market investment as a business. So, they do not lock t
 Sometimes, the market is not suitable for intra-day trading (e,g, when it is moving sideways), while at other times the market is not suitable for long term investment (e.g. when it is falling or is very volatile). However, in swing trading you always keep on getting opportunities for trading. You may easily get 2-3 good swing trading opportunities in a month, no matter how the market is behaving (good trading opportunity means the trade that allows us to gain at least 10%).
 </div>
  
+In swing trading our aim is to trade between the support and resistence levels. We try to enter near the support and exit at the resistence. So, we try to make profit per swing.
+* We buy at the lowest point possible, which is generally near the support level. And then sell at the highest point possible, which is generally near the resistence level.
+* We sell at the highest point possible, which is generally near the resistence level. And then buy at the lowest point possible, which is generally near the support level.
+
+Some people enter trade only when there is a breakout, rather than just looking at support-resistence levels. They select stocks that break 52 week high or low. This allows them to book profits faster. This way their capital does not remain blocked in the same stock for long. To confirm the breakout you may use VWAP, Super Trend, RSI, etc. All these allow you to enter the trade right near the bottom, rather then after the price has already rose a lot. 
+
+Trade entry and exit will depend on your technical analysis, strategy, the indicators you rely on, etc. 
+
 
 ## Tips of Swing Trading
 
@@ -109,6 +117,35 @@ Spinning Top candlestick pattern is very similar to Long-legged Doji pattern. Th
   <b>Warning</b><br>
 
 There are hundreds of candlestick patterns, but most of them are useless, as they do not give us strong clues regarding an upcoming trend-change in the market. Only a few of them are good – Doji pattern being one of them. 
+</div>
+
+Some more tips:
+
+* Though most swing traders aim to make just 5-10% profits per trade, you may maximize your profits using finnacial news. To make the maximum possible profits in swing trading, you should combine technical analysis with news based trading. That is, buy a stock that has potential to grow based on some news. Then double check its chart. If technical analysis also gives you a green signal, go forward and buy it. So, news also allows us to choose right stocks for swing trading. 
+* Always select a stock that has enough trade volume. Do not select a stock that has very low trading volume, or in which the operator (or big bulls) is known to play tricks. To be safe, trade only in the stocks of big and well-known companies. 
+* As per some experts, in swing trading you should rely more on chart based price action, rather than on indicators. For example, when flag chart pattern is formed, swing traders tend to make huge profits. 
+* When the price moves in a tight range for a long-time, i.e. gets stuck sidways, it shows price consolidation. Sometimes we get a huge breakout in such stocks in due course of time, especiallly if you see that the trade volume is increasing. 
+* ALways use a trailing stop loss. 
+* Along with learning to do swing trading, also learn when not to do swing trading. Do not enter the trade until and unless all items of your checklist are checked. 
+
+
+## Advantages of Swing Trading
+
+* In swing trading you need not sit in front of the screen continuously. The holding time in swing trading can be anywhere between 2-3 days to much more. So, unlike intra-day trading, here you may buy the stock and then relax. 
+* Swing trading is not as risky as intra-day trading. 
+* Swing traders do not run the risk of over-trading. They trade only when they see a very good opportunity. So, your brokerage costs are automatically going to be minimal. 
+
+
+## Disadvantages of Swing Trading 
+
+* Risk of overnight bad news: If some bad news comes along overnight, your stock may collapse. Say, if the company's quarterly report is gloomy, or governemnt passes a law that is detrimental to the interests of that company, etc. 
+* Most wealthy people in stock markets make their wealth via long-term postional trading. If you are doing swing trading, you will most probably just focus on short-term 5-10% profits, and may miss out on long-term mega profits. But you may do swing trading without any fundamental analysis, which requires you to do a lot of research. Swing trading allows you to skip that hard work. 
+
+<div class="toc-mak">
+  <img src="../../../images/pencil.png">
+  <b>Note</b><br>
+
+If you do swing trading after doing some fundamental analysis, you may decide to remain invested in that stock for long-term midway through your trade, if you deem fit. After all, you have taken delivery of the stock (CNC). Though it's not a good idea to change your trade aim midway, swing trading allows you to move to a positional stand midway if you wish to stay put long-term, rather than book quick profits/losses. So, if you are one of those people who hate booking losses and place a stop loss, you should definitely trade only in a stock that has strong findamentals and long-term growth potential. That will allow you to avoid booking losses in swing trading; you may stay invested in that stock long-term. But your capital will get stuck in that stock for that amount of time. 
 </div>
 
 

@@ -88,8 +88,8 @@ PCR measures the ratio of the put option open interest on a given day to the cal
 
 We will check this ratio at the breakout candle, and a few subsequent ones. If the PCR data supports our breakout/breakdown prediction, then we can rely on that breakout/breakdown and enter the trade. 
 
-* If PCR changes from much below 1 (say 0.7) to much above 1 (say 1.2), and we are seeing a breakout on the chart, then it probably is a reliable breakout and we will most probably see an uptrend.
-* If PCR changes from much above 1 (say 1.3) to much below 1 (say 0.8), and we are seeing a breakdown on the chart, then it probably is a reliable breakdown and we will most probably see a downtrend.
+* If PCR > 1.25, then it may suggest that the market is going to get bullish. But also have a look at the slope of the PCR data, i.e. whether it's increasing or not. If PCR slope is downwards or sideways, it may be a false breakout. If PCR changes from much below 1 (say 0.7) to much above 1 (say 1.2), and we are seeing a breakout on the chart, then it probably is a reliable breakout and we will most probably see an uptrend.
+* If PCR < 0.75, then it may suggest that the market is going to get bearish. But also have a look at the slope of the PCR data, i.e. whether it's decreasing or not. If PCR slope is upwards or sideways, it may be a false breakdown. If PCR changes from much above 1 (say 1.3) to much below 1 (say 0.8), and we are seeing a breakdown on the chart, then it probably is a reliable breakdown and we will most probably see a downtrend.
 
 So, we should not just rely on our technical analysis of price action, but we should also back that up with data analysis. 
 
