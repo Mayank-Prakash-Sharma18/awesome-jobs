@@ -13,6 +13,7 @@ categories: ["entrepreneur"]
 tags: ["extra-income","money-online","best-chart-candlestick-patterns"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
+affiliatelink: stock_market_affiliate_hindi
 ---
 
 हमारे पास सैकड़ों चार्ट और कैंडलस्टिक पैटर्न हैं। लेकिन हम इतने पैटर्न को कैसे याद रख सकते हैं, और कैसे पता करें कि उनमें से कौन वास्तव में काम करता है या नहीं?

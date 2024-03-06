@@ -13,6 +13,7 @@ categories: ["entrepreneur"]
 tags: ["extra-income","money-online","best-chart-candlestick-patterns"]
 type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
+affiliatelink: stock_market_affiliate_english
 ---
 
 There are hundreds of chart and candlestick patterns out there. But how can we remember so many, and how to know which of them do really work or not?

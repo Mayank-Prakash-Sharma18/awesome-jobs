@@ -40,7 +40,7 @@ The first day of SSB is generally the elimination round, but in our case, this a
 
 So, I cleared my Air Force SSB (for technical branch) in my first attempt. Later on, within next 10 days, I also cleared my medical in Delhi. All this happened in August of 2008, i.e. within one month. Merit list was released in November and my name was there too. Our joining date was in January, 2009 in Air Force Training centre, Dundigal (Andra Pradesh). 
 
-I will share tit-bits of my SSB and medical experience now and then withing this article, whenever needed. Read on!
+I will share tit-bits of my SSB and medical experience now and then within this article, whenever needed. Read on!
 </div>
 
 <div class="toc-mak">

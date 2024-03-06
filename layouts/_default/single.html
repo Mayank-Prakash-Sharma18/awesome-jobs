@@ -74,6 +74,13 @@
           </ul>
           <div class="content">{{ .Content }}</div>
         </article>
+        <!-- Affiliate Write-Up -->
+        {{ if eq .Params.affiliatelink "stock_market_affiliate_english" }}
+          {{ partial "stock_market_affiliate_english.html" . }}
+        {{ end }}
+        {{ if eq .Params.affiliatelink "stock_market_affiliate_hindi" }}
+          {{ partial "stock_market_affiliate_hindi.html" . }}
+        {{ end }}
         <!-- Share buttons added by me / Mak / Mayank. (Reference - http://hugocodex.org/add-ons/share-buttons/) share-buttons.html file is in layouts/partials -->
         {{ partial "share-buttons.html" . }}
         <!-- comments -->
